@@ -1,0 +1,17 @@
+body{
+
+    background-color: rgb(90, 66, 176);
+}
+
+h2{
+
+    color: #fdffff;
+
+    text-align: center;
+}
+
+form{
+
+    margin-right: 30%;
+    margin-left: 30%;
+}
